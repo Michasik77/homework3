@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 100px;
+    background-color: aquamarine;
+    text-align: center;
+    
+    
+}
+nav{
+    height: 20px;
+    background-color: black;
+    color: white;
+}
+footer{
+height: 30px;
+background-color: blue;
+text-align: center;
+display: flex;
+align-items: flex-end;
+}
+.block1{
+    display: inline-block;
+    border: 2px solid red;
+}
+.block2{
+    display: inline-block;
+    border: 2px solid blue;
+}
+.block3{
+    display: inline-block;
+
+    border: 2px solid green;
+}
